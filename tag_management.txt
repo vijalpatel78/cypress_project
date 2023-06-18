@@ -1,0 +1,11 @@
+@all
+- use this tag to run all test cases
+
+@regression
+- use this tag to run regression test cases
+
+@smoke
+- use this tag to run smoke test cases
+
+@skip
+- use this tag to skip test cases while execution
